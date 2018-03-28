@@ -10,8 +10,11 @@
         <url>https://github.com/alexeystepanov73/mslimsdatfileextractor</url>
         <connection>scm:git:https://github.com/alexeystepanov73/mslimsdatfileextractor.git</connection>
         <developerConnection>scm:git:https://github.com/alexeystepanov73/mslimsdatfileextractor.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>  
+        <tag>HEAD</tag>
+    </scm>  
+    <properties>
+        <project.scm.id>github-scm-server</project.scm.id>
+    </properties>
     <distributionManagement>
         <repository>
             <id>release</id>
