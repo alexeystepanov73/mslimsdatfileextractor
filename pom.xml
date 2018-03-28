@@ -11,7 +11,6 @@
         <connection>scm:git:https://github.com/alexeystepanov73/mslimsdatfileextractor.git</connection>
         <developerConnection>scm:git:https://github.com/alexeystepanov73/mslimsdatfileextractor.git</developerConnection>
     </scm>  
-    
     <distributionManagement>
         <repository>
             <id>release</id>
