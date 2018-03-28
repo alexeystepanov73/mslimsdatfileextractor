@@ -4,13 +4,14 @@
 
     <groupId>com.compomics</groupId>
     <artifactId>mslimsdatfileextractor</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2</version>
     
     <scm>
         <url>https://github.com/alexeystepanov73/mslimsdatfileextractor</url>
         <connection>scm:git:https://github.com/alexeystepanov73/mslimsdatfileextractor.git</connection>
         <developerConnection>scm:git:https://github.com/alexeystepanov73/mslimsdatfileextractor.git</developerConnection>
-    </scm>  
+      <tag>mslimsdatfileextractor-1.2</tag>
+  </scm>  
     <distributionManagement>
         <repository>
             <id>release</id>
